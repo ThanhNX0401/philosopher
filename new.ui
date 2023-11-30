@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>992</width>
+    <height>621</height>
+   </rect>
+  </property>
+  <property name="sizePolicy">
+   <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
+    <horstretch>0</horstretch>
+    <verstretch>0</verstretch>
+   </sizepolicy>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QLabel" name="Table">
+    <property name="geometry">
+     <rect>
+      <x>140</x>
+      <y>90</y>
+      <width>381</width>
+      <height>381</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="test.qrc">:/newPrefix/pngegg (2).png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="spa1">
+    <property name="geometry">
+     <rect>
+      <x>380</x>
+      <y>260</y>
+      <width>101</width>
+      <height>111</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="test.qrc">:/newPrefix/spa1.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="spa2">
+    <property name="geometry">
+     <rect>
+      <x>270</x>
+      <y>350</y>
+      <width>131</width>
+      <height>111</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="test.qrc">:/newPrefix/spa1.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="spa3">
+    <property name="geometry">
+     <rect>
+      <x>150</x>
+      <y>270</y>
+      <width>131</width>
+      <height>111</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="test.qrc">:/newPrefix/spa1.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="spa5">
+    <property name="geometry">
+     <rect>
+      <x>340</x>
+      <y>140</y>
+      <width>101</width>
+      <height>101</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="test.qrc">:/newPrefix/spa1.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="spa4">
+    <property name="geometry">
+     <rect>
+      <x>190</x>
+      <y>140</y>
+      <width>101</width>
+      <height>101</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="test.qrc">:/newPrefix/spa1.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="Button1">
+    <property name="geometry">
+     <rect>
+      <x>790</x>
+      <y>50</y>
+      <width>111</width>
+      <height>61</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>PushButton</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="Button2">
+    <property name="geometry">
+     <rect>
+      <x>790</x>
+      <y>140</y>
+      <width>111</width>
+      <height>51</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>PushButton</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_4">
+    <property name="geometry">
+     <rect>
+      <x>790</x>
+      <y>220</y>
+      <width>111</width>
+      <height>51</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>PushButton</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_5">
+    <property name="geometry">
+     <rect>
+      <x>790</x>
+      <y>300</y>
+      <width>111</width>
+      <height>51</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>PushButton</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="fork2">
+    <property name="geometry">
+     <rect>
+      <x>320</x>
+      <y>300</y>
+      <width>101</width>
+      <height>121</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="test.qrc">:/newPrefix/fork2.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="fork1">
+    <property name="geometry">
+     <rect>
+      <x>360</x>
+      <y>170</y>
+      <width>141</width>
+      <height>141</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="test.qrc">:/newPrefix/fork1.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="fork3">
+    <property name="geometry">
+     <rect>
+      <x>180</x>
+      <y>300</y>
+      <width>141</width>
+      <height>131</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="test.qrc">:/newPrefix/fork3.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="fork4">
+    <property name="geometry">
+     <rect>
+      <x>120</x>
+      <y>190</y>
+      <width>141</width>
+      <height>131</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="test.qrc">:/newPrefix/fork4.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="fork0">
+    <property name="geometry">
+     <rect>
+      <x>230</x>
+      <y>90</y>
+      <width>151</width>
+      <height>151</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="test.qrc">:/newPrefix/fork0.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="face1">
+    <property name="geometry">
+     <rect>
+      <x>400</x>
+      <y>30</y>
+      <width>131</width>
+      <height>121</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="test.qrc">:/newPrefix/face2.png</pixmap>
+    </property>
+    <property name="scaledContents">
+     <bool>true</bool>
+    </property>
+   </widget>
+   <widget class="QLabel" name="face2">
+    <property name="geometry">
+     <rect>
+      <x>480</x>
+      <y>280</y>
+      <width>131</width>
+      <height>141</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="test.qrc">:/newPrefix/face2.png</pixmap>
+    </property>
+    <property name="scaledContents">
+     <bool>true</bool>
+    </property>
+   </widget>
+   <widget class="QLabel" name="face5">
+    <property name="geometry">
+     <rect>
+      <x>90</x>
+      <y>20</y>
+      <width>121</width>
+      <height>131</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="test.qrc">:/newPrefix/face1.png</pixmap>
+    </property>
+    <property name="scaledContents">
+     <bool>true</bool>
+    </property>
+   </widget>
+   <widget class="QLabel" name="face4">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>300</y>
+      <width>131</width>
+      <height>131</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="test.qrc">:/newPrefix/face1.png</pixmap>
+    </property>
+    <property name="scaledContents">
+     <bool>true</bool>
+    </property>
+   </widget>
+   <widget class="QLabel" name="face3">
+    <property name="geometry">
+     <rect>
+      <x>250</x>
+      <y>450</y>
+      <width>131</width>
+      <height>121</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="test.qrc">:/newPrefix/face.png</pixmap>
+    </property>
+    <property name="scaledContents">
+     <bool>true</bool>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_6">
+    <property name="geometry">
+     <rect>
+      <x>780</x>
+      <y>390</y>
+      <width>121</width>
+      <height>61</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>PushButton</string>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+ </widget>
+ <resources>
+  <include location="test.qrc"/>
+ </resources>
+ <connections/>
+</ui>

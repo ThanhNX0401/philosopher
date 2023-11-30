@@ -1,0 +1,20 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>fork0.png</file>
+    <file>2023-11-29(1).png</file>
+    <file>fork1.png</file>
+    <file>face.png</file>
+    <file>face1.png</file>
+    <file>face2.png</file>
+    <file>fork2.png</file>
+    <file>fork3.png</file>
+    <file>fork4.png</file>
+    <file>spa1.png</file>
+    <file>spa.png</file>
+    <file>D:/Download/pngegg (2).png</file>
+    <file>pngegg (2).png</file>
+    <file>D:/Download/pngegg.png</file>
+    <file>pngegg (1).png</file>
+    <file>pngegg.png</file>
+  </qresource>
+</RCC>
